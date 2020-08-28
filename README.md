@@ -1,0 +1,2 @@
+# mypackage
+cookiecutter tutorial
